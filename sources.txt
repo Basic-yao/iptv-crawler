@@ -32,8 +32,6 @@ https://gh-proxy.com/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3
 https://gh-proxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/IPV6.m3u
 https://gh-proxy.com/https://raw.githubusercontent.com/whpsky/iptv/main/chinatv.m3u
 
-# 全部（很大，慎放）
-https://iptv-org.github.io/iptv/index.m3u
 # 中国
 https://iptv-org.github.io/iptv/countries/cn.m3u
 # 中文语言
