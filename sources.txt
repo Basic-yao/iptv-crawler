@@ -1,3 +1,9 @@
 # 每行一个候选源地址（公开免费的 m3u / txt 聚合列表）
 # 以 # 开头为注释；脚本只读取 http(s) 行
 # 在此添加你信任的公开源地址，一行一个
+
+https://gh-proxy.com/https://iptv-org.github.io/iptv/countries/cn.m3u
+https://zbds.org/tv/iptv4.txt
+https://gh-proxy.com/https://raw.githubusercontent.com/joevess/IPTV/main/m3u/iptv.m3u
+https://gh-proxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
+https://live.fanmingming.com/tv/m3u/ipv6.m3u
