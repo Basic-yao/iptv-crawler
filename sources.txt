@@ -32,6 +32,7 @@ https://iptv-org.github.io/iptv/countries/tw.m3u
 https://iptv-org.github.io/iptv/countries/jp.m3u
 https://iptv-org.github.io/iptv/countries/kr.m3u
 
+http://47.94.6.170/TV/tv.m3u
 https://gh-proxy.com/https://raw.githubusercontent.com/Basic-yao/TVBox/refs/heads/main/live.m3u
 https://gh-proxy.com/https://raw.githubusercontent.com/XinMan939/iptv-api/refs/heads/master/output/log/subscribe/http_wangziduoqing.com_yuan_zb.txt.txt
 https://gh-proxy.com/raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.m3u
