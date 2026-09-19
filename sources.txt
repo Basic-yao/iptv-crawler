@@ -3,34 +3,18 @@
 # 在此添加你信任的公开源地址，一行一个
 
 # ---- 中文综合聚合 ----
-https://gh-proxy.com/https://raw.githubusercontent.com/joevess/IPTV/main/m3u/iptv.m3u
 https://gh-proxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
 https://gh-proxy.com/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u
 https://gh-proxy.com/https://raw.githubusercontent.com/BurningC4/Chinese-IPTV/master/TV-IPV4.m3u
-
-# ---- 国内直连 txt/m3u（IPv4+IPv6，机房外更稳）----
-https://zbds.org/tv/iptv4.txt
-https://zbds.org/tv/iptv4.m3u
-https://zbds.org/tv/iptv6.txt
-https://zbds.org/tv/iptv6.m3u
 
 # ---- vbskycn 镜像（通过 gh-proxy 拉，避免 raw 被限）----
 https://gh-proxy.com/raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.txt
 https://gh-proxy.com/raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.m3u
 
-# ---- 广电源/区域源示例 ----
-https://gh-proxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/bestv.m3u
-https://gh-proxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/cqyx.m3u
-https://gh-proxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/yqgd.m3u
-https://gh-proxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/hbgd.m3u
 
 # ----纯 IPv6 源（有 IPv6 环境再用）# ----
 https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
-https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6Plus.m3u
-https://live.fanmingming.com/tv/m3u/ipv6.m3u
 https://gh-proxy.com/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u
-https://gh-proxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/IPV6.m3u
-https://gh-proxy.com/https://raw.githubusercontent.com/whpsky/iptv/main/chinatv.m3u
 
 # 中国
 https://iptv-org.github.io/iptv/countries/cn.m3u
@@ -48,16 +32,6 @@ https://iptv-org.github.io/iptv/countries/tw.m3u
 https://iptv-org.github.io/iptv/countries/jp.m3u
 https://iptv-org.github.io/iptv/countries/kr.m3u
 
-# ----fanmingming 全套（含广播、global） ----
-https://live.fanmingming.com/tv/m3u/global.m3u
-https://live.fanmingming.com/tv/m3u/ipv6.m3u
-https://live.fanmingming.com/radio/m3u/index.m3u
-https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/v6.m3u
-
-
-# ----保守起步 ----
-https://gh-proxy.com/https://iptv-org.github.io/iptv/countries/cn.m3u
-https://zbds.org/tv/iptv4.txt
-https://gh-proxy.com/https://raw.githubusercontent.com/joevess/IPTV/main/m3u/iptv.m3u
-https://gh-proxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
-https://live.fanmingming.com/tv/m3u/ipv6.m3u
+https://gh-proxy.com/https://raw.githubusercontent.com/Basic-yao/TVBox/refs/heads/main/live.m3u
+https://gh-proxy.com/https://raw.githubusercontent.com/XinMan939/iptv-api/refs/heads/master/output/log/subscribe/http_wangziduoqing.com_yuan_zb.txt.txt
+https://gh-proxy.com/raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.m3u
