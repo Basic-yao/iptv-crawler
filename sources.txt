@@ -10,11 +10,6 @@ https://gh-proxy.com/https://raw.githubusercontent.com/BurningC4/Chinese-IPTV/ma
 # ---- vbskycn 镜像（通过 gh-proxy 拉，避免 raw 被限）----
 https://gh-proxy.com/raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.m3u
 
-
-# ----纯 IPv6 源（有 IPv6 环境再用）# ----
-https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
-https://gh-proxy.com/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u
-
 # 中国
 https://iptv-org.github.io/iptv/countries/cn.m3u
 # 中文语言
@@ -31,7 +26,7 @@ https://iptv-org.github.io/iptv/countries/tw.m3u
 https://iptv-org.github.io/iptv/countries/jp.m3u
 https://iptv-org.github.io/iptv/countries/kr.m3u
 
-https://aptv.pro/tv/all.m3u
+https://aptv.pro/all.m3u
 http://47.94.6.170/TV/tv.m3u
 https://gh-proxy.com/https://raw.githubusercontent.com/Basic-yao/TVBox/refs/heads/main/live.m3u
 https://gh-proxy.com/https://raw.githubusercontent.com/XinMan939/iptv-api/refs/heads/master/output/log/subscribe/http_wangziduoqing.com_yuan_zb.txt.txt
